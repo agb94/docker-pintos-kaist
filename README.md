@@ -1,7 +1,7 @@
 # docker-pintos-kaist
 
 ## Prerequisite
- - Install [Docker](https://www.docker.com/)!
+ - Install [Docker Desktop](https://docs.docker.com/desktop/)!
 
 ## Getting Started
 If you're using Linux OS, I recommend you to do this in a tmux session.
